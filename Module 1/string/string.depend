@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699854294 source:d:\phitron\c++\module 1\string\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+

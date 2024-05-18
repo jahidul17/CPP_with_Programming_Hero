@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699847860 source:d:\phitron\c++\module 1\eof and setprecision\main.cpp
+	<iostream>
+	<stdio.h>
+
